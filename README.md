@@ -6,16 +6,6 @@
    <img src="https://img.shields.io/github/stars/leorodriguez246?style=social">
 </p>
 
-# Índice
-
-*[Descripción del proyecto](#descripción-del-proyecto)
-
-*[Estado del proyecto](#estado-del-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Desarrollador](#desarrollador)
-
 # Descripcion del proyecto
 
 Proyecto orientado a desarrollar un portafolio laboral y personal, donde se iran integrando los conocimientos adquiridos durante mi formacion como desarrollador.
